@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs

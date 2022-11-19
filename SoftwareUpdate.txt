@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Elaborate Train and Predict mode docs arguments (#8137)

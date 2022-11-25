@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)

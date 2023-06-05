@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Update CITATION.cff with cffinit corrections (#8658)

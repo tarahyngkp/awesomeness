@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)

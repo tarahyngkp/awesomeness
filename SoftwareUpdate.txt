@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add C++ Classify inference example (#6868)

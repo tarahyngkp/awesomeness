@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)

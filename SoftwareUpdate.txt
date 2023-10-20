@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)

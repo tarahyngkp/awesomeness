@@ -1,1 +1,1 @@
-fix resume training
+Add OBB save_txt feature (#7450)

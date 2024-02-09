@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add new YOLOv8 OBB model metrics (#7379)

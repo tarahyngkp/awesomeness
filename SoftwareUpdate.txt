@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Add yolo_bbox2segment docs reference (#7751)

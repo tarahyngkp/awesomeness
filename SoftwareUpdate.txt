@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.0.231 use new pyproject.toml (#7185)

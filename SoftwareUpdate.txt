@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update CI.md with CI links (#8786)

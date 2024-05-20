@@ -1,1 +1,1 @@
-fix predict with class filter
+Python refactorings and simplifications (#7549)
